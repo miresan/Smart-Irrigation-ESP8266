@@ -4,10 +4,10 @@
 
 
 // Set these to run
-#define FIREBASE_HOST "nodemcuiot-c169f-default-rtdb.firebaseio.com"
-#define FIREBASE_AUTH "uEZdbZZIb3J9mdsRB3y22SQwnJaFbdDHojFkGuBT"
-#define WIFI_SSID "Dialog 4G 759"
-#define WIFI_PASSWORD "a2476bf3"
+#define FIREBASE_HOST "firebaseio.com"
+#define FIREBASE_AUTH ""
+#define WIFI_SSID ""
+#define WIFI_PASSWORD ""
 
 #define DHTPIN D6          //pin where the dht11 is connected
 

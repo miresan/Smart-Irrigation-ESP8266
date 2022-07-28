@@ -4,7 +4,7 @@
 
 
 // Set these to run
-#define FIREBASE_HOST "firebaseio.com"
+#define FIREBASE_HOST ""
 #define FIREBASE_AUTH ""
 #define WIFI_SSID ""
 #define WIFI_PASSWORD ""
